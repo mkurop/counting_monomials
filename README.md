@@ -2,5 +2,4 @@ Full algorithm for calculating the expected Kullback-Leibler Divergence between 
 https://codeocean.com/capsule/7114494/.
 DOI of this capsule is: 10.24433/CO.3748956.v1
 
-Description of the algorithm which solves this hard combinatorial problem (i.e. counting monomials with only even exponents) is 
-contained in the file "CombinatorialProblemDescirption.pdf".
+Description of the algorithm which solves this hard combinatorial problem (i.e. counting monomials with only even exponents in an expression for a trace of a matrix raised to a power) is contained in the file "CombinatorialProblemDescirption.pdf".
