@@ -1,6 +1,6 @@
-Full algorithm for calculating Kullback-Leibler Divergence between two multivariate Gaussians can be found here:
+Full algorithm for calculating the expected Kullback-Leibler Divergence between two multivariate Gaussians can be found here:
 https://codeocean.com/capsule/7114494/.
 DOI of this capsule is: 10.24433/CO.3748956.v1
 
-Description of the algorithm which solves hard combinatorial problem (i.e. counting monomials with only even exponents) is 
+Description of the algorithm which solves this hard combinatorial problem (i.e. counting monomials with only even exponents) is 
 contained in the file "CombinatorialProblemDescirption.pdf".
